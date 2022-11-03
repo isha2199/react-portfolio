@@ -1,0 +1,45 @@
+.header--image {
+  width: 315.4px;
+}
+
+.header--name {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.header--title {
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 15px;
+  text-align: center;
+  color: #F3BF99;
+}
+
+.header--button {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.main--content {
+  display: flex;
+  flex-wrap: wrap;
+  color: #F5F5F5;
+  margin: 0 28px;
+}
+
+.main--title {
+  font-weight: 700;
+  font-size: 18px;
+  margin-top: 23px;
+  margin-bottom: 4px;
+  line-height: 150%;
+}
+
+.main--sub__title {
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 150%;
+}

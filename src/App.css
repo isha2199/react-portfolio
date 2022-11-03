@@ -1,0 +1,7 @@
+.app--body {
+  box-sizing: border-box;
+  border: 1px solid #1A1B21;
+  width: 317px;
+  background: #1A1B21;
+  margin: 0 auto;
+}
